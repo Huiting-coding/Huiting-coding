@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Huiting</h1>
-<h3 align="center">A passionate junior Full-stack developer from Shanghai</h3>
+<h3 >Hi 👋, I'm Huiting</h1>
+<h3 >A passionate junior Full-stack developer from Shanghai</h3>
 
 - 🔭 I’m currently working on 
 [HappyOurs Wechat Mini Program]:
