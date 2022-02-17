@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Huiting</h1>
+<h3 align="center">A passionate junior Full-stack developer from Shanghai</h3>
 
-<!--
-**Huiting-coding/Huiting-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 
+[HappyOurs Wechat Mini Program]:
+(https://github.com/Huiting-coding/HappyOurs_Frontend)
+(https://github.com/xxlaura/HappyOurs_Backend)
+[GreenBook Wechat Mini Program]:
+(https://github.com/Huiting-coding/GreenBook_Backend)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **ruby, js, react**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **qhtvera@gmail.com**
+
